@@ -1,0 +1,151 @@
+{
+  "seville-granada": {
+    "arrival": "IAD–MAD nonstop, overnight, land ~morning [verify]. Cercanías C1 from Terminal 4 to Atocha (~25 min), then AVE Madrid → Seville 2h30 — you are in Seville by mid-afternoon the same day. The train is part of the fun: book a table of four. Fly home from Madrid again (Granada → Madrid AVE 3h15) or connect from Seville.",
+    "lodging": "Seville: a 3–4BR apartment in Santa Cruz, Alfalfa or Triana — a roof terrace with a plunge pool is worth paying for in the heat — or an aparthotel. Granada: a carmen in the Albaicín (walled garden, Alhambra views; no car access, bags carried up stairs) or a Realejo apartment; hotel rooms with a lounge also fine. 7 = two apartments in the same building is common in Seville.",
+    "days7": [
+      "D1 Land MAD, AVE to Seville (arrive ~3–4pm). Evening paseo: Plaza de España rowboats, María Luisa park playgrounds, early tapas.",
+      "D2 Real Alcázar at opening (timed ticket; gardens, peacocks, hedge maze), Cathedral + Giralda — it's ramps all the way up, the 3yo walks it. Siesta. Early-evening flamenco at a small tablao (kids welcome at 6pm shows).",
+      "D3 Triana: market breakfast, ceramics, river walk; afternoon Isla Mágica theme park or the Setas de Sevilla walkway at sunset.",
+      "D4 Córdoba by AVE (45 min): Mezquita at opening, Jewish quarter and the patios (festival first half of May [verify]), Alcázar gardens, back by evening.",
+      "D5 Train Seville → Granada (~2.5–3h). Check in. Mirador de San Nicolás at sunset, Albaicín wander, tetería.",
+      "D6 Alhambra: Nasrid Palaces at the booked slot (tickets months ahead), Generalife gardens, Alcazaba towers. Afternoon Parque de las Ciencias (Granada's science museum — a big kid hit) or pool.",
+      "D7 Sierra Nevada half-day: bus to Pradollano (~1h) for snow in May and sledging [verify what runs]; or Cathedral + Royal Chapel, Sacromonte caves, hammam for the adults in rotation.",
+      "D8 AVE Granada → Madrid (3h15) and fly home same day [verify timing], or sleep in Madrid."
+    ],
+    "days10": [
+      "4 nights Seville, 1 night Córdoba (patios at dusk without the day-trippers), 3 nights Granada, 1–2 nights Cádiz (train 1h40 from Seville: La Caleta beach, Torre Tavira camera obscura, fried fish).",
+      "Extra Seville: Itálica Roman ruins (Game of Thrones), Carmona. Extra Granada: Alpujarras white villages (car), Nerja caves + beach (bus 2h), Ronda by train.",
+      "Option: Cádiz instead of Granada for a sea version — less history, more beach, cooler."
+    ],
+    "anchorsKids": "Plaza de España rowboats, Alcázar peacocks and maze, Giralda ramps, Isla Mágica, Córdoba patios, Parque de las Ciencias, snow on the Sierra Nevada, churros con chocolate.",
+    "anchorsAdults": "Alhambra, Mezquita, Alcázar, flamenco, Albaicín at sunset, tapas culture, the AVE.",
+    "mayWeek": "Early May strongly preferred: Seville highs ~80°F early May, 90°F+ by late May. Córdoba patios festival runs roughly the first two weeks of May [verify]. Feria de Abril 2027 should fall mid/late April [verify] — if it slips into May, Seville lodging spikes. Alhambra tickets release ~3 months ahead and sell out [verify].",
+    "verify": [
+      "IAD–MAD nonstop schedule May 2027",
+      "AVE Madrid–Seville and Seville–Granada timetables",
+      "Alhambra ticket release and Nasrid Palaces slots",
+      "Córdoba patios festival 2027 dates",
+      "Feria de Abril 2027 dates",
+      "Sierra Nevada access in May"
+    ]
+  },
+  "barcelona-girona": {
+    "arrival": "IAD–BCN nonstop, overnight, land ~morning [verify]. Aerobús or the R2 Nord train into the centre (~35 min). The jet-lag day is a beach-and-park day in Barcelona.",
+    "lodging": "Barcelona: a licensed (HUT) 3–4BR apartment in Eixample or Gràcia, or an aparthotel / hotel family suite — given the planned 2028 phase-out of tourist apartments, aparthotels are the safe bet for 7 [verify]. Girona: an old-town apartment or hotel; or swap Girona for a Costa Brava villa (Begur, Calella de Palafrugell — car needed) for the second half.",
+    "days7": [
+      "D1 Land BCN. Barceloneta beach walk, Parc de la Ciutadella (rowboats, the mammoth, the cascade), early dinner.",
+      "D2 Sagrada Família at opening (timed), Park Güell (timed), lunch in Gràcia; afternoon rest.",
+      "D3 Montjuïc: cable car across the port from Barceloneta, castle, Poble Espanyol; Magic Fountain show in the evening if running [verify].",
+      "D4 Montserrat: R5 train from Plaça Espanya + rack railway (Cremallera), funicular to Sant Joan, short ridge walk, boys' choir at 1pm (not Saturdays) [verify]. Back by evening.",
+      "D5 AVE to Girona (38 min). City walls walk, cathedral steps (Game of Thrones), Jewish quarter, Onyar houses, gelato at Rocambolesc.",
+      "D6 Costa Brava: bus or car to Calella de Palafrugell or Tossa de Mar — beach and a short stretch of the camí de ronda coastal path. Or Figueres Dalí museum by train (35 min).",
+      "D7 Besalú (medieval bridge) + Banyoles lake (pedalos, swim) by bus/car, or a Girona rest day.",
+      "D8 Train back to BCN airport (~1h30 with a change) and fly home."
+    ],
+    "days10": [
+      "5 nights Barcelona (add CosmoCaixa science museum — superb for kids; Tibidabo amusement park + funicular; Picasso museum; Camp Nou tour [verify status]) + 4 nights Girona / Costa Brava.",
+      "Extra Girona: Cadaqués + Cap de Creus by car, Empúries Greek and Roman ruins on the beach, the Dalí triangle (Figueres, Púbol, Portlligat).",
+      "Option: 3 nights in a Costa Brava villa with a car instead of Girona town."
+    ],
+    "anchorsKids": "Barceloneta, Ciutadella rowboats, Sagrada Família towers, Montserrat rack railway, Magic Fountain, Tibidabo, CosmoCaixa, Costa Brava coves, Banyoles pedalos.",
+    "anchorsAdults": "Gaudí, Montserrat, Girona old town, Dalí, the camí de ronda, Catalan food and vermut.",
+    "mayWeek": "Any week; sea ~65°F — the 7yo will swim. Watch pockets on the metro. Sagrada Família and Park Güell timed tickets ~2 months out [verify]. Montserrat choir schedule [verify].",
+    "verify": [
+      "IAD–BCN nonstop schedule May 2027",
+      "Barcelona tourist-apartment rules in 2027",
+      "Montserrat boys' choir schedule",
+      "Magic Fountain show schedule",
+      "Girona–Costa Brava bus options",
+      "Camp Nou tour status"
+    ]
+  },
+  "london-edinburgh": {
+    "arrival": "IAD–LHR nonstop, overnight [verify]. Elizabeth line into town (~45 min). Fly home from Edinburgh on United's seasonal nonstop if it is running by May [verify], otherwise a short EDI–LHR hop.",
+    "lodging": "London: a 3–4BR flat in Bloomsbury, Marylebone or Pimlico, or an aparthotel with a living room (Citadines, Native, Cheval). Premier Inn family rooms are the cheap fallback but give the adults no shared space unless rooms adjoin. Edinburgh: New Town or Stockbridge 3–4BR flats are plentiful and good value.",
+    "days7": [
+      "D1 Land LHR. Hyde Park: Diana Memorial Playground, Serpentine pedalos; early night.",
+      "D2 Natural History Museum at opening + Science Museum Wonderlab; Thames Clipper to the Tower of London (Crown Jewels, Yeoman Warder tour).",
+      "D3 Warner Bros Studio Tour (Watford Junction; book months ahead) — or British Museum + Platform 9¾ + Covent Garden performers if tickets are gone.",
+      "D4 Greenwich by boat: Cutty Sark, Royal Observatory meridian line, the park; or Kew Gardens treetop walk. Pack.",
+      "D5 LNER King's Cross → Edinburgh Waverley (4h20, first-class table). Royal Mile, Camera Obscura, Victoria Street, Greyfriars Bobby.",
+      "D6 Edinburgh Castle at opening (one o'clock gun); Grassmarket lunch; Arthur's Seat via the Salisbury Crags path; dinner in Stockbridge.",
+      "D7 North Berwick by train (30 min): beach, Scottish Seabird Centre, boat to the Bass Rock gannets — or Royal Yacht Britannia + Dynamic Earth + Portobello beach.",
+      "D8 Fly home from EDI (nonstop if running) [verify]."
+    ],
+    "days10": [
+      "5 nights London + 5 nights Edinburgh.",
+      "Extra London: Kew, Hampton Court maze, Windsor, a West End matinee (Lion King / Matilda), Borough Market, Changing of the Guard.",
+      "Extra Edinburgh: Stirling Castle + Wallace Monument by train (50 min); Glasgow day (Kelvingrove, Riverside transport museum); Forth Bridge boat from South Queensferry; Fife coast (Anstruther fish and chips, St Andrews); Rosslyn Chapel."
+    ],
+    "anchorsKids": "Diana playground, dinosaurs, Wonderlab, Tower ravens, Platform 9¾ and the Studio Tour, Thames boats, the castle gun, Arthur's Seat scramble, Bass Rock boat, Portobello ice cream.",
+    "anchorsAdults": "Tower, Greenwich, a West End show, Edinburgh old and new towns, Stockbridge, the Fife coast.",
+    "mayWeek": "Any week. UK bank holidays Mon May 3 and Mon May 31, 2027 crowd the museums [verify]. Light until 10pm in Edinburgh by late May. UK ETA required for every traveller [verify]. Studio Tour tickets and LNER advance fares open ~3 months ahead [verify].",
+    "verify": [
+      "IAD–EDI seasonal nonstop 2027 start",
+      "LNER advance fare release",
+      "WB Studio Tour ticket release",
+      "UK ETA fee and process",
+      "UK bank holiday dates 2027",
+      "Bass Rock boat season"
+    ]
+  },
+  "lisbon-algarve": {
+    "arrival": "IAD–LIS nonstop, overnight, land ~morning [verify]. Metro or taxi into town. Start in Lisbon, train south mid-trip. Fly home from Lisbon (train back 3h the last morning) or from Faro via a connection [verify].",
+    "lodging": "Lisbon: a 3–4BR apartment in Chiado / Príncipe Real or the Martinhal Chiado family aparthotel. Algarve: a villa with a heated pool near Lagos (Praia da Luz, Meia Praia) or in Tavira — 4–5BR villas are standard stock and May is pre-season, so 7 is easy and cheap. Rental car for the Algarve half from Faro or Lagos (7 = minivan).",
+    "days7": [
+      "D1 Land LIS. Belém: pastéis, tower, riverside walk; early night.",
+      "D2 Alfama: Tram 28 early, Castelo de São Jorge, miradouros; Oceanário in the afternoon if it is hot.",
+      "D3 Sintra: Pena Palace at opening, Quinta da Regaleira — or a Cascais beach day with Boca do Inferno.",
+      "D4 Train Lisbon Oriente → Faro (3h), then pick up the car, or regional train to Lagos (1h45) / Tavira (35 min) [verify]. Villa, pool, sunset.",
+      "D5 Lagos: Ponta da Piedade boardwalks + grotto boat (small boats, calm sea), Praia Dona Ana, old town. Tavira version: ferry to Ilha de Tavira, Roman bridge, camera obscura.",
+      "D6 Benagil cave by boat or kayak from Carvoeiro / Portimão (book a kid-friendly skipper), a short stretch of the Seven Hanging Valleys trail, Carvoeiro boardwalk. Or Zoomarine for a full kid day.",
+      "D7 Sagres and Cabo de São Vicente (fortress, end-of-the-world cliffs, Praia do Beliche); or Silves castle + Monchique hills — or simply the pool.",
+      "D8 Drive to Faro (1h) and fly via Lisbon, or train to Lisbon (3h) for an evening flight [verify]."
+    ],
+    "days10": [
+      "4 nights Lisbon (add Óbidos + Nazaré day, Setúbal dolphins boat, Guincho) + 5–6 nights Algarve.",
+      "Extra Algarve: Ria Formosa lagoon boat from Olhão with flamingos, Alte village and waterfalls, Loulé Saturday market, ferry to Ayamonte in Spain from Vila Real de Santo António.",
+      "Option: 2 nights Évora (UNESCO town, bone chapel, 1h30 by train) between Lisbon and the Algarve."
+    ],
+    "anchorsKids": "Tram 28, Pena Palace, Oceanário, the villa pool, Ponta da Piedade boats, Benagil cave, the Ilha de Tavira ferry, Zoomarine, Sagres cliffs.",
+    "anchorsAdults": "Alfama, Sintra, Algarve cliff walks, cataplana and grilled fish, Sagres sunset.",
+    "mayWeek": "Any week; Algarve highs mid-70s, sea 63–65°F (late May a touch warmer). Pre-season means cheaper villas and empty beaches, but some beach restaurants are not yet open in early May [verify]. Pool heating is essential.",
+    "verify": [
+      "IAD–LIS nonstop schedule May 2027",
+      "Lisbon–Faro and Faro–Lagos train times",
+      "Villa heated pool",
+      "Benagil tour operators and age limits",
+      "Faro → home connection options"
+    ]
+  },
+  "austria-salzburg": {
+    "arrival": "IAD–MUC nonstop, overnight, land ~morning [verify]. S-Bahn to Munich Hbf (45 min), Railjet to Salzburg (1h30) — in Salzburg by early afternoon the same day. Alternative: IAD–VIE nonstop (Austrian) + Railjet 2h30 [verify].",
+    "lodging": "Salzburg: a 3–4BR apartment in the Neustadt / Andräviertel or an aparthotel; the Altstadt is cramped. Salzkammergut: a lakeside Ferienwohnung in St. Wolfgang or St. Gilgen (Wolfgangsee side) or Obertraun / Bad Goisern (Hallstatt side); family farm apartments with a trampoline in the yard are the local speciality and 7 is easy.",
+    "days7": [
+      "D1 Land MUC, train to Salzburg. Mirabell gardens (the Do-Re-Mi steps), Getreidegasse, early dinner in a Gastgarten.",
+      "D2 Hohensalzburg fortress by funicular at opening (marionette museum, towers); afternoon Hellbrunn trick fountains + the palace-park playground + Salzburg Zoo next door.",
+      "D3 Königssee day (bus 840, 50 min): electric boats to St. Bartholomä, the echo trumpet, a lakeside walk. Or the Untersberg cable car (snow on top in May). Obersalzberg / Eagle's Nest for the adults in rotation — road opens ~mid-May [verify].",
+      "D4 Postbus 150 Salzburg → St. Gilgen (50 min), boat across to St. Wolfgang; check into the lake house. Zwölferhorn cable car or pedalos.",
+      "D5 Schafberg steam cog railway from St. Wolfgang (opens early/mid May [verify]) for the 360° of lakes; afternoon boat or lake bath.",
+      "D6 Hallstatt early (train + ferry, or 1h drive): salt mine with the wooden slides (min age ~4 [verify] — one adult takes the 3yo to the Skywalk), then Dachstein ice cave from Obertraun (from ~May 1 [verify]) or the flat Gosausee lake walk.",
+      "D7 Bad Ischl (Kaiservilla, Zauner pastry) + Katrin cable car; or Mondsee (Sound of Music church) + a Fuschlsee swim. Pack.",
+      "D8 Bus/train to Salzburg (1h), Railjet to Munich (1h30), S-Bahn to MUC — fly home same day [verify] or sleep near the airport."
+    ],
+    "days10": [
+      "4 nights Salzburg (add Werfen: Eisriesenwelt ice cave + falconry at Hohenwerfen castle, both from ~May 1 [verify]; a Munich day on arrival) + 5–6 nights on the lakes.",
+      "Extra lakes: Attersee, Gmunden (Traunsee ship + Grünberg cable car), the Wolfgangsee bike circuit, Postalm plateau, Dachstein Krippenstein '5 Fingers' viewpoint if the lifts are running [verify].",
+      "Car option: Großglockner High Alpine Road as a day (opens early May weather permitting [verify])."
+    ],
+    "anchorsKids": "Hellbrunn trick fountains, fortress funicular, Mirabell steps, lake boats and pedalos, Schafberg steam train, salt-mine slides (7yo), ice cave, Königssee electric boats, cows with bells, the farm trampoline.",
+    "anchorsAdults": "Hohensalzburg, DomQuartier, Hallstatt at dawn, Gosausee, Schafberg panorama, Gasthaus food, Bad Ischl's imperial history.",
+    "mayWeek": "Mid or late May is better: Schafbergbahn and the Eagle's Nest road open ~mid-May, Dachstein caves and Eisriesenwelt from May 1 [verify]. Budget two wet days (Schnürlregen) with indoor fallbacks: Haus der Natur, salt mine, ice cave. Whit Monday is May 17, 2027 — Hallstatt will be mobbed that weekend [verify].",
+    "verify": [
+      "IAD–MUC and IAD–VIE nonstop schedules",
+      "Schafbergbahn, Dachstein caves, Eagle's Nest road, Eisriesenwelt 2027 opening dates",
+      "Hallstatt salt mine minimum age",
+      "Postbus 150 and Salzburg–Hallstatt timetables",
+      "Munich–Salzburg Railjet times",
+      "Pfingsten 2027 crowds"
+    ]
+  }
+}
