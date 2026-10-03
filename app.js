@@ -172,6 +172,17 @@
     (def.decisionLog || []).forEach(de => {
       if (!(saved.decisionLog = saved.decisionLog || []).some(e => e.id === de.id)) saved.decisionLog.push(deepClone(de));
     });
+    /* v4 (2026-10-03): travelers are named, people-notes dropped. meta is not
+       editable in the UI, so always refresh it; rename people in saved text. */
+    if (n(saved.version) < 4) {
+      saved.meta = deepClone(def.meta);
+      const R = [[/\bthe 3yo\b/g, 'Penny'], [/\bthe 7yo\b/g, 'Simon'], [/\b3yo\b/g, 'Penny'], [/\b7yo\b/g, 'Simon'],
+        [/\b(?:the |a )?3-year-old\b/g, 'Penny'], [/\b(?:the |a )?7-year-old\b/g, 'Simon'], [/\bMom\b/g, 'Melissa']];
+      const walk = o => { for (const k in o) { if (typeof o[k] === 'string') R.forEach(([re, to]) => { o[k] = o[k].replace(re, to); }); else if (o[k] && typeof o[k] === 'object') walk(o[k]); } };
+      walk(saved.buckets);
+      const q = (saved.groupQuestions || []).find(x => x.id === 'gq-brother');
+      if (q && /^Brother and girlfriend/.test(q.text)) q.text = def.groupQuestions.find(x => x.id === 'gq-brother').text;
+    }
     saved.version = def.version;
     setTimeout(() => flash('Merged data.js v' + def.version + ' updates into your saved data'), 300);
     try { localStorage.setItem(STORAGE_KEY, JSON.stringify(saved)); } catch (e) {}

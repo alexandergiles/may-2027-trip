@@ -38,7 +38,11 @@
   function loadState() {
     try {
       const raw = localStorage.getItem(STORAGE_KEY);
-      if (raw) { const p = JSON.parse(raw); if (p && Array.isArray(p.buckets)) return p; }
+      if (raw) {
+        const p = JSON.parse(raw);
+        // A saved copy older than data.js is ignored until planner.html migrates it.
+        if (p && Array.isArray(p.buckets) && +p.version >= +window.TRIP_DATA.version) return p;
+      }
     } catch (e) { /* fall through */ }
     return window.TRIP_DATA;
   }

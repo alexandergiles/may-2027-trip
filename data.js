@@ -53,18 +53,18 @@
    ===================================================================== */
 
 window.TRIP_DATA = {
-  version: 3,
+  version: 4,
 
   meta: {
     title: "May 2027 family trip",
     tagline: "7–10 days, ~2 bases, trains first, towns and scenery over box-ticking",
     travelers: [
-      "Alex + wife",
-      "7-year-old and 3-year-old (strong travelers, can miss school)",
-      "Mom, 70 (very mobile, adventurous, no pace constraints)",
-      "Maybe: brother (36) + girlfriend — known early 2027",
+      "Alex and Caresse",
+      "Simon (7) and Penny (3) — can miss school",
+      "Melissa",
+      "Maybe Jeremy — known early 2027",
     ],
-    groupSize: "5 or 7",
+    groupSize: "5, or 7 with Jeremy",
     homeAirports: "IAD / DCA (DCA has no transatlantic flights, so IAD in practice)",
     dates: "TBD inside May 2027; settled early 2027. Memorial Day is Mon May 31, 2027.",
     preferences: [
@@ -126,7 +126,7 @@ window.TRIP_DATA = {
           trainHours: 3,
           trainNote: "Alfa Pendular Lisbon Santa Apolónia/Oriente → Porto Campanhã ~3h, roughly hourly [verify]. Book ~60 days out on cp.pt.",
           car: "none",
-          carNote: "Everything by metro, tram, suburban train and foot. Hills and cobbles are stroller-hostile — bring a carrier for the 3-year-old.",
+          carNote: "Everything by metro, tram, suburban train and foot. Hills and cobbles are stroller-hostile — bring a carrier for Penny.",
           rail: 5,
           kid3: 4,
           kid7: 4,
@@ -289,11 +289,11 @@ window.TRIP_DATA = {
           lodgingStyle: "Apartments in Santa Cruz / Triana (Seville) and Albaicín / Realejo (Granada); hotels are good value.",
           lodging57: "4BR apartments exist in Seville; in Granada look for a carmen house in the Albaicín. 7 is doable with two apartments.",
           weather: "Seville highs 80–88°F, late May can spike past 95°F. Granada ~75°F with snow still on the Sierra Nevada. Cádiz ~73°F with sea breeze.",
-          notes: "Alhambra tickets sell out months ahead — book the day 2027 dates are fixed. Real Alcázar (Game of Thrones for the 7-year-old), Plaza de España rowboats, Isla Mágica theme park, flamenco at a tablao with early show. Córdoba's Mezquita fits as a stop. Feria de Abril 2027 should fall in mid/late April (two weeks after Easter, Mar 28) — before May [verify].",
+          notes: "Alhambra tickets sell out months ahead — book the day 2027 dates are fixed. Real Alcázar (Game of Thrones for Simon), Plaza de España rowboats, Isla Mágica theme park, flamenco at a tablao with early show. Córdoba's Mezquita fits as a stop. Feria de Abril 2027 should fall in mid/late April (two weeks after Easter, Mar 28) — before May [verify].",
           openQuestions: [
             "Granada (history, Alhambra) vs. Cádiz (beach, seafood, oldest city in Western Europe)?",
             "Add Córdoba as a stop on the AVE?",
-            "Early May only — late May heat in Seville with a 3-year-old?",
+            "Early May only — late May heat in Seville with Penny?",
           ],
           todos: [
             { text: "Check Alhambra ticket release timing", done: false },
@@ -315,7 +315,7 @@ window.TRIP_DATA = {
             lodging: "Seville: a 3–4BR apartment in Santa Cruz, Alfalfa or Triana — a roof terrace with a plunge pool is worth paying for in the heat — or an aparthotel. Granada: a carmen in the Albaicín (walled garden, Alhambra views; no car access, bags carried up stairs) or a Realejo apartment; hotel rooms with a lounge also fine. 7 = two apartments in the same building is common in Seville.",
             days7: [
               "D1 Land MAD, AVE to Seville (arrive ~3–4pm). Evening paseo: Plaza de España rowboats, María Luisa park playgrounds, early tapas.",
-              "D2 Real Alcázar at opening (timed ticket; gardens, peacocks, hedge maze), Cathedral + Giralda — it's ramps all the way up, the 3yo walks it. Siesta. Early-evening flamenco at a small tablao (kids welcome at 6pm shows).",
+              "D2 Real Alcázar at opening (timed ticket; gardens, peacocks, hedge maze), Cathedral + Giralda — it's ramps all the way up, Penny walks it. Siesta. Early-evening flamenco at a small tablao (kids welcome at 6pm shows).",
               "D3 Triana: market breakfast, ceramics, river walk; afternoon Isla Mágica theme park or the Setas de Sevilla walkway at sunset.",
               "D4 Córdoba by AVE (45 min): Mezquita at opening, Jewish quarter and the patios (festival first half of May [verify]), Alcázar gardens, back by evening.",
               "D5 Train Seville → Granada (~2.5–3h). Check in. Mirador de San Nicolás at sunset, Albaicín wander, tetería.",
@@ -406,7 +406,7 @@ window.TRIP_DATA = {
             ],
             anchorsKids: "Barceloneta, Ciutadella rowboats, Sagrada Família towers, Montserrat rack railway, Magic Fountain, Tibidabo, CosmoCaixa, Costa Brava coves, Banyoles pedalos.",
             anchorsAdults: "Gaudí, Montserrat, Girona old town, Dalí, the camí de ronda, Catalan food and vermut.",
-            mayWeek: "Any week; sea ~65°F — the 7yo will swim. Watch pockets on the metro. Sagrada Família and Park Güell timed tickets ~2 months out [verify]. Montserrat choir schedule [verify].",
+            mayWeek: "Any week; sea ~65°F — Simon will swim. Watch pockets on the metro. Sagrada Família and Park Güell timed tickets ~2 months out [verify]. Montserrat choir schedule [verify].",
             verify: [
               "IAD–BCN nonstop schedule May 2027",
               "Barcelona tourist-apartment rules in 2027",
@@ -437,7 +437,7 @@ window.TRIP_DATA = {
       whyNot: "Second most expensive bucket after Switzerland; the least reliable weather; 'beach day' is a stretch; we may have done London before.",
       notes: "",
       openQuestions: [
-        "Has Mom done London/Edinburgh recently? If yes, does that push toward the Highlands version?",
+        "Has Melissa done London/Edinburgh recently? If yes, does that push toward the Highlands version?",
         "UK ETA (electronic travel authorisation) is now required for US visitors — small fee per person, apply before flying [verify].",
       ],
       todos: [
@@ -469,7 +469,7 @@ window.TRIP_DATA = {
           lodgingStyle: "Flats in London (Bloomsbury / Marylebone / South Ken) and New Town Edinburgh; or hotels with family rooms.",
           lodging57: "London 4BR flats are expensive and rare; 7 = two flats, an aparthotel (Citadines, Native), or Premier Inn family rooms. Edinburgh New Town 4BR flats are more findable.",
           weather: "London highs ~64°F, Edinburgh ~58°F, showers any day. Light until 9:30pm by late May.",
-          notes: "London: Natural History Museum, Science Museum, Tower, Thames Clipper boat, Diana playground, Platform 9¾; Warner Bros Studio Tour (Watford) must be booked months ahead. Edinburgh: Castle (one o'clock gun), Arthur's Seat is a doable hike for the 7-year-old and Mom, Camera Obscura, Royal Yacht Britannia, Victoria Street. Caledonian Sleeper is an alternative to the day train — family cabins.",
+          notes: "London: Natural History Museum, Science Museum, Tower, Thames Clipper boat, Diana playground, Platform 9¾; Warner Bros Studio Tour (Watford) must be booked months ahead. Edinburgh: Castle (one o'clock gun), Arthur's Seat is a doable hike for Simon and Melissa, Camera Obscura, Royal Yacht Britannia, Victoria Street. Caledonian Sleeper is an alternative to the day train — family cabins.",
           openQuestions: [
             "Open-jaw LHR in / EDI out?",
             "Day train vs. Caledonian Sleeper?",
@@ -576,10 +576,10 @@ window.TRIP_DATA = {
             ],
             days10: [
               "D1 Land LHR. Hyde Park / Diana playground, Thames Clipper boat to Greenwich or Tower, early night.",
-              "D2 Natural History Museum (dinosaurs, 7yo) + Science Museum Wonderlab, South Ken lunch. Afternoon Tower of London (Crown Jewels, ravens).",
+              "D2 Natural History Museum (dinosaurs, Simon) + Science Museum Wonderlab, South Ken lunch. Afternoon Tower of London (Crown Jewels, ravens).",
               "D3 Warner Bros Studio Tour (Watford Junction, 20 min from Euston; booked months ahead) — or Platform 9¾ + British Museum if tickets are gone. Evening Covent Garden street performers.",
               "D4 LNER King's Cross → Edinburgh Waverley (4h20, book a table in first). Afternoon Royal Mile, Camera Obscura, Victoria Street.",
-              "D5 Edinburgh Castle at opening (one o'clock gun), lunch in Grassmarket, afternoon Arthur's Seat (the 7yo and Mom will summit; the 3yo rides shoulders to the Salisbury Crags path).",
+              "D5 Edinburgh Castle at opening (one o'clock gun), lunch in Grassmarket, afternoon Arthur's Seat (Simon will summit; Penny rides shoulders to the Salisbury Crags path).",
               "D6 North Berwick by train (30 min): beach, Scottish Seabird Centre, boat to Bass Rock gannets. Or Royal Yacht Britannia + Portobello beach.",
               "D7 Edinburgh → Glasgow (50 min) → Fort William on the West Highland Line (3h45: Loch Lomond, Rannoch Moor, Corrour). Check into a house near Glencoe/Ballachulish or Arisaig.",
               "D8 Jacobite steam train Fort William → Mallaig over Glenfinnan Viaduct (book months ahead; typically running from April, two departures from mid-May [verify]). Mallaig fish and chips, Silver Sands of Morar beach on the way back (ScotRail return).",
@@ -626,7 +626,7 @@ window.TRIP_DATA = {
           lodgingStyle: "Flats in London/Edinburgh, then a Highland self-catering house.",
           lodging57: "Highland big houses for 7 are plentiful and good value; London is the constraint as always.",
           weather: "Highlands ~55°F, changeable; Skye wetter than the east.",
-          notes: "Unlocks Skye (Fairy Pools, Quiraing, Old Man of Storr — crowds now significant even in May), Glencoe, Highland Wildlife Park (polar bears, drive-through reserve), Cairngorm funicular, Urquhart Castle / Loch Ness, Culloden, Eilean Donan. Long driving days are the cost; Mom and the 3-year-old will cope but it is a different trip from the rail versions.",
+          notes: "Unlocks Skye (Fairy Pools, Quiraing, Old Man of Storr — crowds now significant even in May), Glencoe, Highland Wildlife Park (polar bears, drive-through reserve), Cairngorm funicular, Urquhart Castle / Loch Ness, Culloden, Eilean Donan. Long driving days are the cost; it is a different trip from the rail versions.",
           openQuestions: [
             "Is the car worth it vs. the all-rail Highlands version?",
             "Inverness vs. Fort William as the Highland pick-up point?",
@@ -656,7 +656,7 @@ window.TRIP_DATA = {
       railScore: 4,
       status: "researching",
       statusReason: "Best fit to 'scenery and towns'; the May shoulder season is the thing to understand before committing.",
-      why: "Scenery and storybook towns are exactly the brief; Switzerland and Bavaria are genuinely car-free trips; cog railways, cable cars, lake steamers and cows are catnip for a 3- and a 7-year-old.",
+      why: "Scenery and storybook towns are exactly the brief; Switzerland and Bavaria are genuinely car-free trips; cog railways, cable cars, lake steamers and cows are catnip for Penny and Simon.",
       whyNot: "MAY IS SHOULDER SEASON. Snow lingers above ~1,800 m; many high lifts, passes and mountain huts open in June, so the famous high hikes are mostly off. Rain is likelier than in Iberia. Switzerland is the priciest option on the board.",
       notes: "Shoulder-season rule of thumb: year-round 'flagship' lifts (Jungfraujoch, Schilthorn, Zugspitze, Aiguille du Midi, Titlis, Rigi) run in May with possible short maintenance closures; mid-mountain gondolas (Grindelwald First, Männlichen, Brévent, Dolomites lifts) often reopen mid/late May or June; valley-floor and lakeside walks are fine everywhere. Each sketch below lists what is realistically open — all dates need verifying for 2027.",
       openQuestions: [
@@ -692,10 +692,10 @@ window.TRIP_DATA = {
           lodgingStyle: "Apartment or hotel in Lucerne; chalet apartment in Wengen / Mürren / Lauterbrunnen / Grindelwald.",
           lodging57: "5 fits a standard 2–3BR chalet apartment. 7 = a larger chalet, easiest in Grindelwald or Wilderswil; Wengen/Mürren have fewer big units. Lucerne 7 = two hotel rooms + a triple, or an aparthotel.",
           weather: "Lucerne / Interlaken highs ~65°F, rain about one day in three, Föhn days are warm and clear. Above 2,000 m it is winter: Jungfraujoch ~20°F.",
-          notes: "OPEN IN MAY (verify all for 2027): Jungfraujoch (year-round; 3,454 m — fine for a short visit, keep the 3-year-old hydrated), Schilthorn / Piz Gloria + Birg Thrill Walk (year-round), Rigi and Titlis (year-round), Pilatus gondola from Kriens (year-round; the cogwheel from Alpnachstad usually opens mid-May), Harder Kulm funicular (from ~April), Trümmelbach Falls (from early April), Lake Lucerne paddle steamers, Swiss Transport Museum, Ballenberg open-air museum (from mid-April), Bern bear park and old town. USUALLY NOT YET: Grindelwald First gondola (spring maintenance ~mid-April to mid/late May), Männlichen cable cars (reopen late May), Schynige Platte (June), high trails like Männlichen–Kleine Scheidegg and First–Bachalpsee (snow into June). ACCESSIBLE WALKS that are fine in May: Lauterbrunnen → Stechelberg valley floor, Mürren → Gimmelwald, Wengen village paths, Lucerne lakeside.",
+          notes: "OPEN IN MAY (verify all for 2027): Jungfraujoch (year-round; 3,454 m — fine for a short visit, keep Penny hydrated), Schilthorn / Piz Gloria + Birg Thrill Walk (year-round), Rigi and Titlis (year-round), Pilatus gondola from Kriens (year-round; the cogwheel from Alpnachstad usually opens mid-May), Harder Kulm funicular (from ~April), Trümmelbach Falls (from early April), Lake Lucerne paddle steamers, Swiss Transport Museum, Ballenberg open-air museum (from mid-April), Bern bear park and old town. USUALLY NOT YET: Grindelwald First gondola (spring maintenance ~mid-April to mid/late May), Männlichen cable cars (reopen late May), Schynige Platte (June), high trails like Männlichen–Kleine Scheidegg and First–Bachalpsee (snow into June). ACCESSIBLE WALKS that are fine in May: Lauterbrunnen → Stechelberg valley floor, Mürren → Gimmelwald, Wengen village paths, Lucerne lakeside.",
           openQuestions: [
             "Wengen (car-free, sunny shelf) vs. Lauterbrunnen (valley floor, train hub) vs. Grindelwald (bigger, more lodging for 7)?",
-            "Jungfraujoch for everyone, or adults only with the 3-year-old doing Kleine Scheidegg?",
+            "Jungfraujoch for everyone, or adults only with Penny doing Kleine Scheidegg?",
           ],
           todos: [
             { text: "Pull 2027 opening dates: Männlichen, First, Pilatus cogwheel, Schynige Platte", done: false },
@@ -710,7 +710,7 @@ window.TRIP_DATA = {
             "Männlichen, First, Pilatus cogwheel, Schynige Platte 2027 opening dates",
             "Berner Oberland Pass season start and coverage",
             "Chalet inventory for 7 in Grindelwald / Wilderswil / Wengen",
-            "Jungfraujoch altitude guidance for a 3-year-old",
+            "Jungfraujoch altitude guidance for Penny",
           ],
           detail: {
             arrival: "IAD–ZRH nonstop, overnight, land ~morning [verify]. Train from the airport station straight to Lucerne (~1h, one change at Zurich HB or direct). First day is a lakeside walk and an early night.",
@@ -720,7 +720,7 @@ window.TRIP_DATA = {
               "D2 Mount Pilatus: gondola from Kriens up, cogwheel down to Alpnachstad (the cogwheel usually opens mid-May — if closed, gondola both ways), paddle steamer back to Lucerne.",
               "D3 Swiss Transport Museum (half a day easily for both kids), afternoon Rigi by boat + cogwheel from Vitznau, or a rest afternoon.",
               "D4 Luzern–Interlaken Express over the Brünig Pass (1h50, sit on the right for the lakes), change at Interlaken Ost for Lauterbrunnen/Wengen/Grindelwald. Check in. Trümmelbach Falls in the afternoon (10 glacier waterfalls inside the mountain, lift inside).",
-              "D5 Jungfraujoch: train via Kleine Scheidegg to the Top of Europe. Ice Palace, Sphinx terrace, snow play. Short visit for the 3yo (altitude), then Kleine Scheidegg for lunch and the Männlichen walk only if open [verify].",
+              "D5 Jungfraujoch: train via Kleine Scheidegg to the Top of Europe. Ice Palace, Sphinx terrace, snow play. Short visit for Penny (altitude), then Kleine Scheidegg for lunch and the Männlichen walk only if open [verify].",
               "D6 Mürren and Schilthorn: cable car Stechelberg → Mürren, walk Mürren → Gimmelwald (easy, downhill, 45 min, cows), Schilthorn/Piz Gloria for the 360° and the Birg Thrill Walk.",
               "D7 Easy day: Lauterbrunnen valley floor walk to Stechelberg (flat, 72 waterfalls), Interlaken Harder Kulm funicular at golden hour, or a Bern half-day (bear park, old-town arcades, Zytglogge).",
               "D8 Train Interlaken → ZRH (~2h20) and fly home.",
@@ -738,7 +738,7 @@ window.TRIP_DATA = {
               "Männlichen, First, Pilatus cogwheel, Schynige Platte 2027 opening dates",
               "Berner Oberland Pass season start and coverage",
               "Chalet inventory for 7 in Grindelwald / Wilderswil / Wengen",
-              "Jungfraujoch altitude guidance for a 3-year-old",
+              "Jungfraujoch altitude guidance for Penny",
             ],
           },
           status: "shortlisted",
@@ -769,7 +769,7 @@ window.TRIP_DATA = {
           lodgingStyle: "Salzburg apartment or hotel; lakeside Ferienwohnung or Gasthof in the Salzkammergut. Do not sleep in Hallstatt itself — tiny, mobbed by day; visit early from Obertraun or Bad Goisern.",
           lodging57: "7 is easy in a lakeside Ferienwohnung or two units at a Gasthof. Salzburg 4BR apartments exist in the Neustadt.",
           weather: "Highs ~65°F. Salzburg's 'Schnürlregen' is real — expect some all-day rain. Snow above ~1,800 m.",
-          notes: "OPEN IN MAY (verify 2027): Hallstatt salt mine with the wooden miners' slides (from late March; minimum age ~4 — the 3-year-old may be excluded [verify]), Dachstein ice cave and Mammoth cave (open ~May 1), Schafberg steam cog railway from St. Wolfgang (opens early/mid May), Untersberg cable car (year-round except maintenance), Hohensalzburg fortress funicular, Hellbrunn trick fountains (from late March — the 7-year-old's favorite 20 minutes of the trip), Wolfgangsee boats (from late April), Sound of Music tour (year-round). CAR-ONLY: Großglockner High Alpine Road (opens early May weather permitting), Eagle's Nest road (mid-May). The Obersalzberg / Eagle's Nest is the WWII question in this sketch too.",
+          notes: "OPEN IN MAY (verify 2027): Hallstatt salt mine with the wooden miners' slides (from late March; minimum age ~4 — Penny may be excluded [verify]), Dachstein ice cave and Mammoth cave (open ~May 1), Schafberg steam cog railway from St. Wolfgang (opens early/mid May), Untersberg cable car (year-round except maintenance), Hohensalzburg fortress funicular, Hellbrunn trick fountains (from late March — Simon's favorite 20 minutes of the trip), Wolfgangsee boats (from late April), Sound of Music tour (year-round). CAR-ONLY: Großglockner High Alpine Road (opens early May weather permitting), Eagle's Nest road (mid-May). The Obersalzberg / Eagle's Nest is the WWII question in this sketch too.",
           openQuestions: [
             "Fly into Munich or Vienna? Vienna adds a city, Munich is shorter.",
             "Lake base: St. Wolfgang (Schafberg, boats) vs. Obertraun (Hallstatt, Dachstein)?",
@@ -798,7 +798,7 @@ window.TRIP_DATA = {
               "D3 Königssee day (bus 840, 50 min): electric boats to St. Bartholomä, the echo trumpet, a lakeside walk. Or the Untersberg cable car (snow on top in May). Obersalzberg / Eagle's Nest for the adults in rotation — road opens ~mid-May [verify].",
               "D4 Postbus 150 Salzburg → St. Gilgen (50 min), boat across to St. Wolfgang; check into the lake house. Zwölferhorn cable car or pedalos.",
               "D5 Schafberg steam cog railway from St. Wolfgang (opens early/mid May [verify]) for the 360° of lakes; afternoon boat or lake bath.",
-              "D6 Hallstatt early (train + ferry, or 1h drive): salt mine with the wooden slides (min age ~4 [verify] — one adult takes the 3yo to the Skywalk), then Dachstein ice cave from Obertraun (from ~May 1 [verify]) or the flat Gosausee lake walk.",
+              "D6 Hallstatt early (train + ferry, or 1h drive): salt mine with the wooden slides (min age ~4 [verify] — one adult takes Penny to the Skywalk), then Dachstein ice cave from Obertraun (from ~May 1 [verify]) or the flat Gosausee lake walk.",
               "D7 Bad Ischl (Kaiservilla, Zauner pastry) + Katrin cable car; or Mondsee (Sound of Music church) + a Fuschlsee swim. Pack.",
               "D8 Bus/train to Salzburg (1h), Railjet to Munich (1h30), S-Bahn to MUC — fly home same day [verify] or sleep near the airport.",
             ],
@@ -807,7 +807,7 @@ window.TRIP_DATA = {
               "Extra lakes: Attersee, Gmunden (Traunsee ship + Grünberg cable car), the Wolfgangsee bike circuit, Postalm plateau, Dachstein Krippenstein '5 Fingers' viewpoint if the lifts are running [verify].",
               "Car option: Großglockner High Alpine Road as a day (opens early May weather permitting [verify]).",
             ],
-            anchorsKids: "Hellbrunn trick fountains, fortress funicular, Mirabell steps, lake boats and pedalos, Schafberg steam train, salt-mine slides (7yo), ice cave, Königssee electric boats, cows with bells, the farm trampoline.",
+            anchorsKids: "Hellbrunn trick fountains, fortress funicular, Mirabell steps, lake boats and pedalos, Schafberg steam train, salt-mine slides (Simon), ice cave, Königssee electric boats, cows with bells, the farm trampoline.",
             anchorsAdults: "Hohensalzburg, DomQuartier, Hallstatt at dawn, Gosausee, Schafberg panorama, Gasthaus food, Bad Ischl's imperial history.",
             mayWeek: "Mid or late May is better: Schafbergbahn and the Eagle's Nest road open ~mid-May, Dachstein caves and Eisriesenwelt from May 1 [verify]. Budget two wet days (Schnürlregen) with indoor fallbacks: Haus der Natur, salt mine, ice cave. Whit Monday is May 17, 2027 — Hallstatt will be mobbed that weekend [verify].",
             verify: [
@@ -873,11 +873,11 @@ window.TRIP_DATA = {
             lodging: "Garmisch: 4–5BR Ferienhäuser with gardens and mountain views are common in Garmisch, Grainau and Farchant, and May is low season — easy evening space. Munich: aparthotel suites with living rooms (Adina, Living Hotel) or two adjacent apartments in Lehel/Glockenbach; both give the adults a shared room after bedtime.",
             days7: [
               "D1 Land MUC, S-Bahn to Munich. Walk Marienplatz at the 11am/noon Glockenspiel, Viktualienmarkt lunch, nap, early dinner at a beer garden (kids welcome, playgrounds attached).",
-              "D2 Munich: Deutsches Museum (Kids' Kingdom for the 3yo, mining/aviation for the 7yo), afternoon Englischer Garten — Eisbach surfers, Chinese Tower beer garden.",
+              "D2 Munich: Deutsches Museum (Kids' Kingdom for Penny, mining/aviation for Simon), afternoon Englischer Garten — Eisbach surfers, Chinese Tower beer garden.",
               "D3 Munich: Hellabrunn Zoo morning (U-Bahn, large, stroller-easy), afternoon Nymphenburg palace gardens or Olympiapark tower. Evening pack.",
               "D4 Regional train Munich → Garmisch (1h20). Check into the house. Afternoon Partnach Gorge (30 min walk from the Olympic ski stadium, wet and loud, both kids will love it).",
               "D5 Zugspitze: cogwheel from Garmisch to Eibsee, Eibsee cable car to the summit, cog train back down through the mountain. Lunch on top (winter up there — hats). Afternoon Eibsee lakeshore walk.",
-              "D6 Neuschwanstein + Linderhof day. Train/bus via Oberammergau, or hire a car for this one day (easiest with 5+). Timed tickets booked in advance. Hohenschwangau is the better castle for a 7yo's attention span.",
+              "D6 Neuschwanstein + Linderhof day. Train/bus via Oberammergau, or hire a car for this one day (easiest with 5+). Timed tickets booked in advance. Hohenschwangau is the better castle for Simon's attention span.",
               "D7 Easy day: Alpspitzbahn to the AlpspiX platform, Mittenwald old town (20 min by train, painted houses, violin museum), or Innsbruck as a second-country day (1h20 by train).",
               "D8 Train Garmisch → MUC airport (~2h with one change) and fly home. Or sleep near the airport if the flight is early.",
             ],
@@ -956,7 +956,7 @@ window.TRIP_DATA = {
           trainHours: 2.5,
           trainNote: "Annecy–Chamonix by rail is 2.5–3h with 1–2 changes (via La Roche-sur-Foron and Saint-Gervais, finishing on the Mont-Blanc Express) [verify]; by road it is 1h15. The rail route is scenic but slow.",
           car: "optional",
-          carNote: "Annecy itself is walkable with a lakeside bike path (bike trailer for the 3-year-old). A car makes the Annecy–Chamonix leg and lake loop easy; 7 = van. Chamonix valley has good free buses and the Mont-Blanc Express.",
+          carNote: "Annecy itself is walkable with a lakeside bike path (bike trailer for Penny). A car makes the Annecy–Chamonix leg and lake loop easy; 7 = van. Chamonix valley has good free buses and the Mont-Blanc Express.",
           rail: 3,
           kid3: 5,
           kid7: 5,
@@ -999,7 +999,7 @@ window.TRIP_DATA = {
       status: "researching",
       statusReason: "Highest history/novelty and best value; hinges on the WWII-sites-with-kids question and the lack of a Poland nonstop.",
       why: "History and novelty off the charts, Poland is the best value in Europe, Berlin and Kraków are superb walking cities, and Berlin–Dresden–Prague is a scenic all-rail corridor.",
-      whyNot: "No nonstop to Poland from DC; the least scenery of the four buckets; the WWII/Holocaust-site question with a 3- and a 7-year-old is real and unresolved.",
+      whyNot: "No nonstop to Poland from DC; the least scenery of the four buckets; the WWII/Holocaust-site question with Penny and Simon is real and unresolved.",
       notes: "",
       openQuestions: [
         "STANDING QUESTION — How do we handle WWII/Holocaust sites with young kids: split the group (adults rotate, one stays with the kids) or skip entirely? Auschwitz-Birkenau advises against visits for children under 14; Berlin's Topography of Terror / Sachsenhausen, Munich's Dachau and Kraków's Schindler's Factory are similarly heavy. Decide this before picking a sketch.",
@@ -1115,7 +1115,7 @@ window.TRIP_DATA = {
           lodgingStyle: "Berlin apartment / aparthotel; Dresden Neustadt apartment; Prague Old Town / Malá Strana apartment.",
           lodging57: "Dresden and Prague are cheap and spacious — 7 is easy. Berlin as above.",
           weather: "~66–68°F, some rain, long evenings.",
-          notes: "Dresden: Zwinger, Frauenkirche (rebuilt after 1945), Transport Museum, Hygiene Museum children's museum, Elbe paddle steamers, Großer Garten park railway run by kids (season from April [verify]), Dresden Zoo. Saxon Switzerland: Bastei bridge and Königstein fortress — manageable for both kids and Mom. Meissen porcelain. Prague: castle, astronomical clock, Petřín funicular and mirror maze, Charles Bridge early. Berlin notes as in Kraków + Berlin. Most scenic sketch in the bucket and fully rail.",
+          notes: "Dresden: Zwinger, Frauenkirche (rebuilt after 1945), Transport Museum, Hygiene Museum children's museum, Elbe paddle steamers, Großer Garten park railway run by kids (season from April [verify]), Dresden Zoo. Saxon Switzerland: Bastei bridge and Königstein fortress — manageable for everyone. Meissen porcelain. Prague: castle, astronomical clock, Petřín funicular and mirror maze, Charles Bridge early. Berlin notes as in Kraków + Berlin. Most scenic sketch in the bucket and fully rail.",
           openQuestions: [
             "Prague as a real third base or a long day from Dresden?",
             "Fly home from Berlin (nonstop) or Prague (connection)?",
@@ -1141,7 +1141,7 @@ window.TRIP_DATA = {
               "D1 Land BER. Tiergarten, Reichstag dome (pre-booked, evening slot is lovely), early night.",
               "D2 Berlin Zoo + Aquarium (half day), afternoon Spree boat, Museum Island exterior walk, East Side Gallery.",
               "D3 Potsdam: Sanssouci park and palaces, or Berlin Wall Memorial (Bernauer Str., kid-tolerable) + Legoland Discovery Centre + Tempelhofer Feld bikes.",
-              "D4 EC/IC to Dresden (2h). Zwinger courtyard, Frauenkirche dome climb (ramps, Mom and 7yo), Brühl's Terrace, Neustadt dinner.",
+              "D4 EC/IC to Dresden (2h). Zwinger courtyard, Frauenkirche dome climb (ramps), Brühl's Terrace, Neustadt dinner.",
               "D5 Saxon Switzerland: S-Bahn to Kurort Rathen, ferry, 30-min uphill walk to the Bastei bridge; afternoon Königstein fortress or Elbe paddle steamer back.",
               "D6 Dresden: Transport Museum, Hygiene Museum children's museum, Großer Garten park railway (run by kids, from April [verify]), Dresden Zoo.",
               "D7 EC Dresden → Prague along the Elbe (2h15, left side). Long day: Castle, Charles Bridge, Petřín funicular + mirror maze, back to Dresden on the evening train — or sleep in Prague and fly home from PRG via a connection.",
@@ -1216,7 +1216,7 @@ window.TRIP_DATA = {
 
   /* Cross-cutting group decisions. status: open | decided */
   groupQuestions: [
-    { id: "gq-brother", text: "Brother and girlfriend in or out? (decides 5 vs 7 → lodging type, van vs. no car)", status: "open", answer: "", due: "early 2027" },
+    { id: "gq-brother", text: "Jeremy in or out? (decides 5 vs 7 → lodging type, van vs. no car)", status: "open", answer: "", due: "early 2027" },
     { id: "gq-lodging", text: "One big house vs. hotels/apartments?", status: "decided", answer: "Any format works as long as the adults have a shared living space in the evening after the kids are down (house, apartment, aparthotel suite, or two adjacent units). Hotels and separate rentals are acceptable.", due: "" },
     { id: "gq-flights", text: "Direct flights only, or connections OK? (Rules in/out Poland, Seville, the Dolomites)", status: "decided", answer: "Nonstop preferred; a connection or short stopover is fine if it lands us at base 1 the same day. Avoid losing a full day to travel.", due: "" },
     { id: "gq-budget", text: "Budget ceiling, all-in per family unit? (Cost is a tiebreaker in scoring, but a ceiling still matters)", status: "open", answer: "", due: "" },
