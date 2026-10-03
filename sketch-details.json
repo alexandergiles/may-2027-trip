@@ -1,0 +1,157 @@
+{
+  "_readme": "Detailed itinerary sketches keyed by subOption id from data.js. Merge each object into the matching subOption as a new 'detail' field. Lodging requirement: a shared living space for the adults in the evening once the kids are asleep (house, apartment, aparthotel suite, or two adjacent units). Hotels and separate rentals are acceptable. Connections and a short stopover are acceptable if they don't burn a day. 3-night minimum per base is a preference, not a rule. All dates, schedules and opening times are best-knowledge for 2026 and must be verified for May 2027.",
+
+  "bavaria-munich-garmisch": {
+    "arrival": "IAD–MUC nonstop, overnight, land ~morning [verify]. S-Bahn S8 to Munich Hbf (~45 min). Start in Munich so the jet-lag day is a city day with early bed; move to the mountains once everyone is on local time.",
+    "lodging": "Garmisch: 4–5BR Ferienhäuser with gardens and mountain views are common in Garmisch, Grainau and Farchant, and May is low season — easy evening space. Munich: aparthotel suites with living rooms (Adina, Living Hotel) or two adjacent apartments in Lehel/Glockenbach; both give the adults a shared room after bedtime.",
+    "days7": [
+      "D1 Land MUC, S-Bahn to Munich. Walk Marienplatz at the 11am/noon Glockenspiel, Viktualienmarkt lunch, nap, early dinner at a beer garden (kids welcome, playgrounds attached).",
+      "D2 Munich: Deutsches Museum (Kids' Kingdom for the 3yo, mining/aviation for the 7yo), afternoon Englischer Garten — Eisbach surfers, Chinese Tower beer garden.",
+      "D3 Munich: Hellabrunn Zoo morning (U-Bahn, large, stroller-easy), afternoon Nymphenburg palace gardens or Olympiapark tower. Evening pack.",
+      "D4 Regional train Munich → Garmisch (1h20). Check into the house. Afternoon Partnach Gorge (30 min walk from the Olympic ski stadium, wet and loud, both kids will love it).",
+      "D5 Zugspitze: cogwheel from Garmisch to Eibsee, Eibsee cable car to the summit, cog train back down through the mountain. Lunch on top (winter up there — hats). Afternoon Eibsee lakeshore walk.",
+      "D6 Neuschwanstein + Linderhof day. Train/bus via Oberammergau, or hire a car for this one day (easiest with 5+). Timed tickets booked in advance. Hohenschwangau is the better castle for a 7yo's attention span.",
+      "D7 Easy day: Alpspitzbahn to the AlpspiX platform, Mittenwald old town (20 min by train, painted houses, violin museum), or Innsbruck as a second-country day (1h20 by train).",
+      "D8 Train Garmisch → MUC airport (~2h with one change) and fly home. Or sleep near the airport if the flight is early."
+    ],
+    "days10": [
+      "Same spine with 4 nights Munich (add Dachau for the adults in rotation, or a Starnberger See boat day) and 5–6 nights Garmisch.",
+      "Extra Garmisch days: Innsbruck (Alpine Zoo, Nordkette cable car from the city centre, Golden Roof), Mittenwald + Karwendelbahn, Oberammergau woodcarvers, a Königssee day (long — ~2.5h by car, boat to St. Bartholomä).",
+      "Option: drop Garmisch for Füssen/Schwangau as the mountain base (Neuschwanstein, Forggensee, Tegelberg cable car + summer luge). Fewer trains, more castles; Garmisch has the better scenery."
+    ],
+    "anchorsKids": "Partnach Gorge, Zugspitze cog train, Eibsee pedal boats, Hellabrunn zoo, Kids' Kingdom, beer-garden playgrounds, Tegelberg luge (if Füssen).",
+    "anchorsAdults": "Zugspitze summit, Alpspitze, Mittenwald, Innsbruck, Munich museums, Dachau (rotating).",
+    "mayWeek": "Any May week works. Zugspitze and Eibsee cable car have had short spring maintenance windows in April/May [verify]. Alpspitzbahn usually open. Wankbahn reopens in May [verify]. Thunderstorms in the afternoon — do lifts in the morning.",
+    "verify": [
+      "IAD–MUC nonstop days of week for May 2027",
+      "Zugspitze / Eibsee cable car spring maintenance dates",
+      "Neuschwanstein ticket release window and group booking rules",
+      "Deutschlandticket 2027 price and tourist eligibility",
+      "Garmisch Ferienhaus inventory for 7"
+    ]
+  },
+
+  "swiss-lucerne-bo": {
+    "arrival": "IAD–ZRH nonstop, overnight, land ~morning [verify]. Train from the airport station straight to Lucerne (~1h, one change at Zurich HB or direct). First day is a lakeside walk and an early night.",
+    "lodging": "Berner Oberland: Grindelwald and Wilderswil have the most 4–5BR chalets; Wengen and Mürren have a few (car-free, bags from the train). Lucerne: aparthotel or a 2–3BR apartment in the old town; hotel rooms work if there's a lounge. Worth considering 2 nights Lucerne + 6–7 nights in one chalet, day-tripping Lucerne and Bern by train, since the chalet is where the evenings are best.",
+    "days7": [
+      "D1 Land ZRH, train to Lucerne. Chapel Bridge, Lion Monument, lakeside promenade, early dinner.",
+      "D2 Mount Pilatus: gondola from Kriens up, cogwheel down to Alpnachstad (the cogwheel usually opens mid-May — if closed, gondola both ways), paddle steamer back to Lucerne.",
+      "D3 Swiss Transport Museum (half a day easily for both kids), afternoon Rigi by boat + cogwheel from Vitznau, or a rest afternoon.",
+      "D4 Luzern–Interlaken Express over the Brünig Pass (1h50, sit on the right for the lakes), change at Interlaken Ost for Lauterbrunnen/Wengen/Grindelwald. Check in. Trümmelbach Falls in the afternoon (10 glacier waterfalls inside the mountain, lift inside).",
+      "D5 Jungfraujoch: train via Kleine Scheidegg to the Top of Europe. Ice Palace, Sphinx terrace, snow play. Short visit for the 3yo (altitude), then Kleine Scheidegg for lunch and the Männlichen walk only if open [verify].",
+      "D6 Mürren and Schilthorn: cable car Stechelberg → Mürren, walk Mürren → Gimmelwald (easy, downhill, 45 min, cows), Schilthorn/Piz Gloria for the 360° and the Birg Thrill Walk.",
+      "D7 Easy day: Lauterbrunnen valley floor walk to Stechelberg (flat, 72 waterfalls), Interlaken Harder Kulm funicular at golden hour, or a Bern half-day (bear park, old-town arcades, Zytglogge).",
+      "D8 Train Interlaken → ZRH (~2h20) and fly home."
+    ],
+    "days10": [
+      "4 nights Lucerne (add Titlis Rotair rotating cable car from Engelberg, or Bern as a day) + 5–6 nights Oberland.",
+      "Extra Oberland days: Grindelwald First (if reopened — usually mid/late May [verify]) for the cliff walk and Bachalpsee if snow-free; Ballenberg open-air museum (farmhouses, animals, bread baking — a full kid day); Lake Thun boat to Spiez or Oberhofen castle; Blausee.",
+      "Option: Bern as a one-night stop between Lucerne and the Oberland instead of a day trip."
+    ],
+    "anchorsKids": "Pilatus cogwheel, paddle steamers, Transport Museum, Trümmelbach, Jungfraujoch snow, cows and cowbells on the Mürren–Gimmelwald walk, Ballenberg, Harder Kulm.",
+    "anchorsAdults": "Jungfraujoch, Schilthorn, Brünig Pass train, Lauterbrunnen valley, Bern old town, Rigi.",
+    "mayWeek": "Late May opens materially more: Männlichen and First usually reopen in the second half of May, Pilatus cogwheel mid-May [verify]. Early May = flagship lifts only, valley walks, lake boats. Swiss Family Card makes kids under 16 free with a paying parent on most of this [verify].",
+    "verify": [
+      "IAD–ZRH nonstop schedule May 2027",
+      "Männlichen, First, Pilatus cogwheel, Schynige Platte 2027 opening dates",
+      "Berner Oberland Pass season start and coverage",
+      "Chalet inventory for 7 in Grindelwald / Wilderswil / Wengen",
+      "Jungfraujoch altitude guidance for a 3-year-old"
+    ]
+  },
+
+  "london-highlands-rail": {
+    "arrival": "IAD–LHR nonstop, overnight [verify]. Elizabeth line or Heathrow Express into town. Three bases means this is a 9–10 night trip under the 3-night rule; a 7-night version is really London + Edinburgh only.",
+    "lodging": "Highlands: Lochaber self-catering houses for 6–8 are everywhere and May is quiet. London: a 3–4BR flat in Bloomsbury/Marylebone or an aparthotel (Citadines, Native) with a living room; a house in Hampstead or Richmond at a price. Edinburgh: New Town 3–4BR flats are findable.",
+    "days7": [
+      "Tight but possible with 2 nights in London: D1–2 London (arrival day + one full museum day), D3 LNER to Edinburgh, D4 Edinburgh castle + Arthur's Seat, D5 West Highland Line to Fort William, D6 Jacobite to Mallaig, D7 Glencoe, D8 fly home from EDI/GLA via LHR. You lose London depth; the trade is worth it only if London is a repeat for the group."
+    ],
+    "days10": [
+      "D1 Land LHR. Hyde Park / Diana playground, Thames Clipper boat to Greenwich or Tower, early night.",
+      "D2 Natural History Museum (dinosaurs, 7yo) + Science Museum Wonderlab, South Ken lunch. Afternoon Tower of London (Crown Jewels, ravens).",
+      "D3 Warner Bros Studio Tour (Watford Junction, 20 min from Euston; booked months ahead) — or Platform 9¾ + British Museum if tickets are gone. Evening Covent Garden street performers.",
+      "D4 LNER King's Cross → Edinburgh Waverley (4h20, book a table in first). Afternoon Royal Mile, Camera Obscura, Victoria Street.",
+      "D5 Edinburgh Castle at opening (one o'clock gun), lunch in Grassmarket, afternoon Arthur's Seat (the 7yo and Mom will summit; the 3yo rides shoulders to the Salisbury Crags path).",
+      "D6 North Berwick by train (30 min): beach, Scottish Seabird Centre, boat to Bass Rock gannets. Or Royal Yacht Britannia + Portobello beach.",
+      "D7 Edinburgh → Glasgow (50 min) → Fort William on the West Highland Line (3h45: Loch Lomond, Rannoch Moor, Corrour). Check into a house near Glencoe/Ballachulish or Arisaig.",
+      "D8 Jacobite steam train Fort William → Mallaig over Glenfinnan Viaduct (book months ahead; typically running from April, two departures from mid-May [verify]). Mallaig fish and chips, Silver Sands of Morar beach on the way back (ScotRail return).",
+      "D9 Glencoe: visitor centre, Glencoe Lochan walk, bus 915 along the glen. Or Nevis Range gondola + Steall Falls walk in Glen Nevis (easy, dramatic).",
+      "D10 Train to Glasgow or Edinburgh and fly home from EDI if United's seasonal nonstop runs, else back to LHR via a domestic hop [verify]."
+    ],
+    "anchorsKids": "Diana playground, dinosaurs, Wonderlab, Platform 9¾, castle gun, Arthur's Seat, Bass Rock boat, the Hogwarts Express, beach at Morar, Glencoe cows.",
+    "anchorsAdults": "Tower, West Highland Line, Glenfinnan, Glencoe, Edinburgh old town.",
+    "mayWeek": "Any week. Jacobite second daily departure from mid-May helps availability [verify]. Midges start late May but are mild. Light until 10pm in the Highlands by late May. UK ETA required for all US travellers [verify].",
+    "verify": [
+      "IAD–EDI seasonal nonstop 2027 start",
+      "Jacobite 2027 dates and booking opening",
+      "LNER advance fares release",
+      "WB Studio Tour ticket release",
+      "Nevis Range spring maintenance",
+      "UK ETA fee and process"
+    ]
+  },
+
+  "lisbon-porto": {
+    "arrival": "IAD–LIS nonstop (United/TAP), overnight, land ~morning [verify]. Metro or taxi into town (20 min). Open-jaw out of Porto if United's seasonal IAD–OPO runs by May [verify]; otherwise Alfa Pendular back to Lisbon (3h) the last morning.",
+    "lodging": "Lisbon: a 3–4BR apartment in Chiado/Príncipe Real or Martinhal Chiado (an aparthotel built for families, with a kids' club). Alternative base in Sintra or Cascais — villas with pools sleeping 7, 40 min by train to the city, and the beach day comes free. Porto: Ribeira/Cedofeita apartments or a Foz villa.",
+    "days7": [
+      "D1 Land LIS. Belém: pastéis, Monument to the Discoveries, MAAT riverside walk; early night.",
+      "D2 Alfama: Tram 28 early, castle São Jorge (peacocks, ramparts), miradouros, Fado-free early dinner. Oceanário in the afternoon if the kids need air-con.",
+      "D3 Sintra day: Pena Palace at opening (timed ticket), Quinta da Regaleira initiation well, Cabo da Roca sunset if energy holds.",
+      "D4 Beach day: train to Cascais, Praia da Rainha / Guincho by bus, ice cream at Santini. Or Carcavelos for the big sandy beach.",
+      "D5 Alfa Pendular to Porto (3h, book 60 days out). Ribeira walk, Dom Luís bridge top deck, Gaia cable car, sunset on the Gaia side.",
+      "D6 Porto: Livraria Lello (timed), São Bento tiles, Douro six-bridges boat, port lodge tour with juice for the kids, francesinha for the brave.",
+      "D7 Douro Valley by train to Pinhão (2h20 along the river, sit on the right), rabelo boat, back by late afternoon. Or Foz do Douro tram + Matosinhos beach.",
+      "D8 Fly home from OPO (if nonstop) or train to Lisbon + evening flight [verify]."
+    ],
+    "days10": [
+      "5 nights Lisbon/Sintra + 5 nights Porto.",
+      "Extra Lisbon days: Óbidos walled town + Nazaré (big waves, funicular) as a day; Lisbon Zoo; Setúbal dolphins boat; a second Sintra day for Monserrate.",
+      "Extra Porto days: Guimarães (birthplace of Portugal, castle, 1h by train); Aveiro canals + Costa Nova striped houses; Braga + Bom Jesus funicular (water-powered).",
+      "Option: make Sintra a 2-night base between Lisbon and Porto to break the city stretch."
+    ],
+    "anchorsKids": "Tram 28, castle peacocks, Oceanário, Pena Palace, Regaleira well, beach, Gaia cable car, Douro boat, Nazaré funicular.",
+    "anchorsAdults": "Alfama, Belém, Sintra, Ribeira, port lodges, Douro train.",
+    "mayWeek": "Any week; Lisbon highs ~72°F, Porto a touch cooler. Sintra and Lello timed tickets are the only crowd issue. Atlantic ~62°F — a sand day, not a swim day.",
+    "verify": [
+      "IAD–LIS and IAD–OPO nonstop schedules for May 2027",
+      "Alfa Pendular booking window",
+      "Pena Palace and Lello timed-ticket rules",
+      "Sintra/Cascais villa inventory for 7",
+      "Douro line (Pinhão) timetable"
+    ]
+  },
+
+  "berlin-dresden-prague": {
+    "arrival": "Only works as drawn if United's IAD–BER nonstop is running in May 2027 [verify]; otherwise IAD–FRA nonstop + ICE to Berlin (~4h), which is a stopover-ish arrival. Fly home from BER (nonstop) or PRG via a connection.",
+    "lodging": "Dresden and Prague: cheap, spacious 4–5BR apartments (Dresden Neustadt, Prague Vinohrady/Malá Strana). Berlin: apartments in Prenzlauer Berg/Mitte, subject to short-term rental rules [verify], or an aparthotel; Potsdam (25 min by S-Bahn) is a calmer base with kids and has houses.",
+    "days7": [
+      "D1 Land BER. Tiergarten, Reichstag dome (pre-booked, evening slot is lovely), early night.",
+      "D2 Berlin Zoo + Aquarium (half day), afternoon Spree boat, Museum Island exterior walk, East Side Gallery.",
+      "D3 Potsdam: Sanssouci park and palaces, or Berlin Wall Memorial (Bernauer Str., kid-tolerable) + Legoland Discovery Centre + Tempelhofer Feld bikes.",
+      "D4 EC/IC to Dresden (2h). Zwinger courtyard, Frauenkirche dome climb (ramps, Mom and 7yo), Brühl's Terrace, Neustadt dinner.",
+      "D5 Saxon Switzerland: S-Bahn to Kurort Rathen, ferry, 30-min uphill walk to the Bastei bridge; afternoon Königstein fortress or Elbe paddle steamer back.",
+      "D6 Dresden: Transport Museum, Hygiene Museum children's museum, Großer Garten park railway (run by kids, from April [verify]), Dresden Zoo.",
+      "D7 EC Dresden → Prague along the Elbe (2h15, left side). Long day: Castle, Charles Bridge, Petřín funicular + mirror maze, back to Dresden on the evening train — or sleep in Prague and fly home from PRG via a connection.",
+      "D8 Fly home from BER (train back 2h) or PRG."
+    ],
+    "days10": [
+      "4 nights Berlin/Potsdam, 3 nights Dresden, 3 nights Prague — a true three-base all-rail trip.",
+      "Extra Berlin: Deutsches Technikmuseum (planes, trains), Spandau citadel, DDR Museum, Pergamon status [verify], Sachsenhausen/Topography of Terror for the adults in rotation.",
+      "Extra Dresden: Meissen porcelain factory (45 min), Moritzburg castle (lake, horse-drawn), Pillnitz palace by paddle steamer.",
+      "Prague: castle day, Vyšehrad, Vltava pedal boats, National Technical Museum, Letná park beer garden, a day in Kutná Hora (bone church — maybe adults only)."
+    ],
+    "anchorsKids": "Zoo, Legoland Discovery, Spree boat, Bastei, paddle steamers, park railway, Petřín funicular and mirror maze, Technical Museum.",
+    "anchorsAdults": "Reichstag, Wall Memorial, Sanssouci, Frauenkirche, Elbe train, Prague castle and bridge.",
+    "mayWeek": "Any week; Berlin's best month. Dresden park railway and Elbe steamers run from spring [verify]. The WWII sites question applies here (Sachsenhausen, Topography of Terror) — the rotating-adults plan is easy because the kids' sights are dense.",
+    "verify": [
+      "IAD–BER nonstop operating in May 2027",
+      "Berlin short-term rental rules 2027",
+      "Dresden–Prague EC timetable",
+      "Großer Garten park railway season",
+      "Pergamon / Museum Island status",
+      "PRG connection options home"
+    ]
+  }
+}

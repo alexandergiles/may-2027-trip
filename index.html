@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>May 2027 — the shortlist</title>
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="shortlist.css">
+</head>
+<body>
+
+<!-- Landing page of the public site. Everything inside <main> is rendered by
+     shortlist.js from data.js (or from the planner's saved edits in localStorage)
+     plus images.js. The editable planner is planner.html. -->
+<main id="page"></main>
+
+<!-- Lightbox for gallery images -->
+<dialog id="lightbox" aria-label="Image viewer">
+  <img id="lightboxImg" alt="">
+  <p id="lightboxCap"></p>
+</dialog>
+
+<script src="data.js"></script>
+<script src="images.js"></script>
+<script src="shortlist.js"></script>
+</body>
+</html>
